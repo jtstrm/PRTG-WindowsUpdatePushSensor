@@ -13,9 +13,9 @@
 ####
 # CONFIG START
 ####
-$probeIP = "10.4.4.116"
+$probeIP = "192.168.22.32"
 $sensorPort = "5050"
-$sensorKey ="0F126019-CDAB-4246-9A9E-C9937CC216A6"
+$sensorKey ="D444C4F7-8AF5-4CA9-A154-0E7F1D6660C3"
 
 ####
 # CONFIG END
